@@ -1,0 +1,22 @@
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.csprojAssemblyReference.cache
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.csproj.CoreCompileInputs.cache
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.AssemblyInfoInputs.cache
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.AssemblyInfo.cs
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.deps.json
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.runtimeconfig.json
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.runtimeconfig.dev.json
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.dll
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.pdb
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.dll
+C:\Users\Michael Steinmejer\source\repos\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.pdb
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.deps.json
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.runtimeconfig.json
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.runtimeconfig.dev.json
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.dll
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\bin\Debug\netcoreapp2.1\TCPSecureSocket.pdb
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.csprojAssemblyReference.cache
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.csproj.CoreCompileInputs.cache
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.AssemblyInfoInputs.cache
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.AssemblyInfo.cs
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.dll
+C:\Source\TCP\TCPSecureSocket\TCPSecureSocket\obj\Debug\netcoreapp2.1\TCPSecureSocket.pdb
